@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e167001dad6eafa4fb6e4f5d28073326, type: 3}
+  m_Name: New Kunay
+  m_EditorClassIdentifier: 
+  skillController: {fileID: 0}
+  itemPrefab: {fileID: 3419907510302090465, guid: f2e015333c552904b919df93ddcb05ac, type: 3}
+  sprite: {fileID: -2660812230870589554, guid: 3026e534c209cb746a826ba2f44a868c, type: 3}
+  skillName: "\u041A\u0443\u043D\u0430\u0439"
+  skillDescription: "\u0412\u0432\u0435\u0441\u0442\u0438 \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435"
+  skillType: 1
+  ReloadDuration: 5
+  maxActivateNum: 10
+  currentActivateNum: 0
+  isReloading: 1

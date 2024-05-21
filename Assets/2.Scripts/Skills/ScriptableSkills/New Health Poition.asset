@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a477724c155b7e24cac4edbfebf4919d, type: 3}
+  m_Name: New Health Poition
+  m_EditorClassIdentifier: 
+  skillController: {fileID: 0}
+  itemPrefab: {fileID: 3419907510302090465, guid: f72389eb1b73fba4c87463f3d03b7474, type: 3}
+  sprite: {fileID: -1281766860952134704, guid: 3026e534c209cb746a826ba2f44a868c, type: 3}
+  skillName: HealthPoition
+  skillDescription: 
+  skillType: 0
+  ReloadDuration: 0
+  maxActivateNum: 1
+  currentActivateNum: 1
+  isReloading: 0
+  healPercent: 50

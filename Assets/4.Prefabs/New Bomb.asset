@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2578af906a08ad4459be7d358c9d34e6, type: 3}
+  m_Name: New Bomb
+  m_EditorClassIdentifier: 
+  skillController: {fileID: 0}
+  itemPrefab: {fileID: 551352019882668723, guid: b1823bde236b9cc4a976c2cf96d1f40d, type: 3}
+  skillImage: {fileID: 0}
+  skillName: Bomb
+  skillDescription: Explosion
+  skillType: 1
+  ReloadDuration: 5
+  maxActivateNum: 10
+  currentActivateNum: 3
+  isReloading: 1
+  BombPrefab: {fileID: 3982734096818052146, guid: 15df1889bfa77ee4b9c743cf9cac65dd, type: 3}
+  force: 2
+  dropDirection: {x: 2.46, y: 1, z: 0}

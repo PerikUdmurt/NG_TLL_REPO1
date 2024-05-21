@@ -1,0 +1,3 @@
+rep "NG_TLL_REPO1@Dalinovsky@cloud"
+  path "/"
+    smartbranch "/main/stable/dev/Perik_Features" changeset "130"                   
